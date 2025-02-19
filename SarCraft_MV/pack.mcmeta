@@ -1,1 +1,6 @@
-{"pack":{"pack_format":1,"description":"a dhiv addon language for minecraft"}}
+{
+    "pack": {
+        "pack_format": 15,
+        "description": "a dhiv addon language for minecraft"
+    }
+}

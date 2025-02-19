@@ -1,6 +1,14 @@
 {
     "pack": {
-        "pack_format": 15,
+        "pack_format": 46,
         "description": "a dhiv addon language for minecraft"
-    }
+    },
+        "language": {
+           "dhivehi": {
+              "name": "Dhivehi",
+              "region": "Maldives",
+              "bidirectional": false
+           }
+        }
+
 }
